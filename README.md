@@ -2,6 +2,12 @@
 
 A deep learning-based web application that recognizes handwritten digits drawn by the user in real time. The project uses a **Convolutional Neural Network (CNN)** trained on the **MNIST** dataset and provides predictions through an interactive **Streamlit** interface.
 
+## 🚀 Live Demo
+
+🔗 **Try the application here:**  
+https://codealphahandwriting-recognition-rttd9mkngwbfm3452gy9um.streamlit.app/
+
+
 ---
 
 ## 📌 Project Overview
