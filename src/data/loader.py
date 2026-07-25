@@ -1,5 +1,5 @@
 from tensorflow.keras.datasets import mnist
-from extra_keras_datasets import emnist
+
 
 
 def load_mnist():
